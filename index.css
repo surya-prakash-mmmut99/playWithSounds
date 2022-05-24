@@ -43,11 +43,7 @@ body {
     flex-wrap: wrap;
 }
 
-/* .btn{
-    width: 12vh;
-    height: 12vh;
-    margin: 1rem;
-} */
+
 
 
 .btn {
@@ -83,7 +79,7 @@ body {
 
 h3 {
     text-align: center;
-    margin-top: 6px;
+    margin-top: 1px;
 }
 
 .pressed {
@@ -99,7 +95,7 @@ h3 {
 }
 
 
-@media(max-width:700px) {
+@media(max-width:368px) {
     .container {
         text-align: center;
         margin: .4rem 1rem;
