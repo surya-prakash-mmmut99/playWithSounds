@@ -10,7 +10,7 @@ body {
 
 .container {
     text-align: center;
-    margin: 3rem 10rem;
+    margin: 1rem 10rem;
     background: linear-gradient(45deg,
             hsla(340, 100%, 55%, 1) 0%,
             hsla(340, 100%, 55%, 0) 70%),
